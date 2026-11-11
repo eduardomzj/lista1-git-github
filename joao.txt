@@ -1,0 +1,3 @@
+Nome: João Eduardo
+Atividade: Lista 1 - Git e GitHub
+Este é meu primeiro arquivo usando Git.
